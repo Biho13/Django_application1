@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="16">
+            <item index="0" class="java.lang.String" itemvalue="odoo-addon-web-responsive" />
+            <item index="1" class="java.lang.String" itemvalue="zope-event" />
+            <item index="2" class="java.lang.String" itemvalue="odoo-addon-web-environment-ribbon" />
+            <item index="3" class="java.lang.String" itemvalue="odoo_addon_base_technical_user" />
+            <item index="4" class="java.lang.String" itemvalue="odoo-addon-partner-firstname" />
+            <item index="5" class="java.lang.String" itemvalue="zope-interface" />
+            <item index="6" class="java.lang.String" itemvalue="odoo" />
+            <item index="7" class="java.lang.String" itemvalue="odoo-addon-base-user-role" />
+            <item index="8" class="java.lang.String" itemvalue="odoo-addon-server-environment" />
+            <item index="9" class="java.lang.String" itemvalue="odoo-addon-server-environment-ir-config-parameter" />
+            <item index="10" class="java.lang.String" itemvalue="odoo-addon-web-refresher" />
+            <item index="11" class="java.lang.String" itemvalue="pyasn1-modules" />
+            <item index="12" class="java.lang.String" itemvalue="odoo-addon-mail-debrand" />
+            <item index="13" class="java.lang.String" itemvalue="odoo-addon-website-odoo-debranding" />
+            <item index="14" class="java.lang.String" itemvalue="odoo-addon-queue-job" />
+            <item index="15" class="java.lang.String" itemvalue="odoo-addon-queue-job-cron" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
